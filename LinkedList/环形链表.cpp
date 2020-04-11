@@ -1,11 +1,9 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
+/*
+日期：2020/04/09 
+作者：孟庆国
+说明：快慢指针，注意循环体的条件 
+地址：https://leetcode-cn.com/problems/linked-list-cycle/ 
+*/
 class Solution {
 public:
     bool hasCycle(ListNode *head) {

@@ -1,11 +1,9 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
+/*
+日期：2020/04/11 
+作者：孟庆国
+说明：定位元素，首先处理第一个节点数据大于x的情况，使其第一个元素小于x 
+链接：https://leetcode-cn.com/problems/partition-list/ 
+*/
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {

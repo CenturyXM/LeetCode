@@ -1,12 +1,9 @@
-// 原地逆序
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
+/*
+日期：2020/04/08 
+作者：孟庆国
+说明：原地反转，空间O(1) 
+链接：https://leetcode-cn.com/problems/reverse-linked-list/ 
+*/
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {

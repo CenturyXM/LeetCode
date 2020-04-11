@@ -1,14 +1,8 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode(int x) : val(x), next(NULL) {}
- * };
- */
-
 /*
-初始时，q指向m位置，b指向n位置，而s=q->next,p=b->next。
+日期：2020/04/09 
+作者：孟庆国 
+说明：初始时，q指向m位置，b指向n位置，而s=q->next,p=b->next。
+链接：https://leetcode-cn.com/problems/reverse-linked-list-ii/	
 */
 
 class Solution {
