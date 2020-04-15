@@ -3,6 +3,7 @@
 作者：孟庆国
 说明：两层循环，遍历每个节点，判断是否相等 
 链接：https://leetcode-cn.com/problems/intersection-of-two-linked-lists/ 
+难度：# 
 */
 class Solution {
 public:

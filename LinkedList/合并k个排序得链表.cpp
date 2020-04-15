@@ -3,6 +3,7 @@
 作者：孟庆国
 说明：每次从lists中找到最小值节点，找到后对该位置指针后移一位，这样下一个最小值还是在lists中 
 链接：https://leetcode-cn.com/problems/merge-k-sorted-lists 
+难度：# # # 
 */ 
 
 class Solution {

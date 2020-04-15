@@ -3,6 +3,7 @@
 作者：孟庆国
 说明：需要unordered_map
 链接： https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
+难度：# # # 
 */ 
 class Solution {
 public:

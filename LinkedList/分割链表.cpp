@@ -3,6 +3,7 @@
 作者：孟庆国
 说明：定位元素，首先处理第一个节点数据大于x的情况，使其第一个元素小于x 
 链接：https://leetcode-cn.com/problems/partition-list/ 
+难度：# # 
 */
 class Solution {
 public:
