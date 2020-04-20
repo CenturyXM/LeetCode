@@ -1,5 +1,5 @@
 /*
-日期：2020/04/12
+日期：2020/04/12 
 作者：孟庆国
 说明：原地修改，无需考虑其中一个指针先放空的情况下
 链接：https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/ 
